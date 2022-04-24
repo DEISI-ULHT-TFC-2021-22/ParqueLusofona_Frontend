@@ -6,11 +6,11 @@
 
 ![Screenshot_2](https://user-images.githubusercontent.com/61621542/164998078-1a09c694-b1b2-4b9a-b772-abc7bf618639.png)
 
-2. Faça o donwload dos ficheiros deste repositório e abra o ficheiro "TFCApplication.sln"
+2. Faça o download dos ficheiros deste repositório e abra o ficheiro "TFCApplication.sln"
 
 ![Screenshot_3](https://user-images.githubusercontent.com/61621542/164998297-ae61847e-154c-4e06-a2b2-7340c5195c2e.png)
 
-3. Faça o donwload dos ficheiros do repositório do backend deste tfc: https://github.com/DEISI-ULHT-TFC-2021-22/TFC-Backend
+3. Faça o download dos ficheiros do repositório do backend deste tfc: https://github.com/DEISI-ULHT-TFC-2021-22/TFC-Backend
 
 4. Dentro do visual studio selecione a opção de adicionar um projeto existente e adicione o Server e o MobileTest fornecidos pelo Backend
 
