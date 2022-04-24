@@ -1,0 +1,66 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+
+<link rel="stylesheet" href="~/css/Index.css" asp-append-version="true" /> 
+<br/>
+
+<body>
+ 
+  <section class="parent">
+    <section class="child2">
+      <br />
+      <h1>Entrada</h1>
+      <img src="~/lib/images/manchete-matricula-2.png" alt="Sample Image" width="300px" />
+       <br /><br />
+       <p>VÁLIDO</p>
+       <form method="post" asp-page-handler="Revalidar">
+       <input id = "accept1" type="text" asp-for="matriculas.matricula" value="@Model.Matricula"></input>
+       <br /><br />
+      <section class="parent">
+            <section class="_child2">
+                     
+       <button type="submit" class="btn btn-black_revalidate">Revalidar</button>
+      </form>
+            </section>
+            <section class="_child2">
+              
+   <form method="post" asp-page-handler="Limpar">
+       <button type="submit" class="btn btn-black_accept">Aceitar</button>
+      </form>
+            </section>
+      </section>
+    </section>
+
+    <section class="_child2">
+      <br />
+      <h1>Saída</h1>
+      <img src="~/lib/images/manchete-matricula-2.png" alt="Sample Image" width="300px" />
+       <br /><br />
+       <p>VÁLIDO</p>
+       <form method="post" asp-page-handler="Revalidar">
+       <input id = "accept1" type="text" asp-for="matriculas.matricula" value=""></input>
+       <br /><br />
+      <section class="parent">
+            <section class="_child2">
+                     
+       <button type="submit" class="btn btn-black_revalidate">Revalidar</button>
+      </form>
+            </section>
+            <section class="_child2">
+              
+   <form method="post" asp-page-handler="Limpar">
+       <button type="submit" class="btn btn-black_accept">Aceitar</button>
+      </form>
+            </section>
+      </section>
+    </section>
+
+  </section>
+</body>
+
+
