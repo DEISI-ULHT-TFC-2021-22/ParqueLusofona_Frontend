@@ -46,7 +46,7 @@
 
 ![image](https://user-images.githubusercontent.com/61621542/180572940-6452a770-c58f-45ee-b9d7-f932935b4b54.png)
 
-- Definir "Alias" com o nome imagens e o caminho fisico " \\localhost\Fotos"
+- Definir "Alias" com o nome imagens e o caminho fisico "\\\localhost\Fotos"
 
 ![image](https://user-images.githubusercontent.com/61621542/180573180-3efeb8c3-e42a-447a-8ec4-2193b0072579.png)
 
