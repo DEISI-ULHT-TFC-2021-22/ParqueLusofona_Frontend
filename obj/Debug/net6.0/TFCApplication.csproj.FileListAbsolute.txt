@@ -1,0 +1,168 @@
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.csproj.AssemblyReference.cache
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.AssemblyInfoInputs.cache
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.AssemblyInfo.cs
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.csproj.CoreCompileInputs.cache
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.RazorAssemblyInfo.cache
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.RazorAssemblyInfo.cs
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\TFCApplication.staticwebassets.runtime.json
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\TFCApplication.exe
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\TFCApplication.deps.json
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\TFCApplication.runtimeconfig.json
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\ref\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\TFCApplication.pdb
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\scopedcss\bundle\TFCApplication.styles.css
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\scopedcss\projectbundle\TFCApplication.bundle.scp.css
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\ref\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.pdb
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.genruntimeconfig.cache
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\libman.json
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\Grpc.AspNetCore.Web.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\ManuelSousa\Desktop\TFCApplication\TFCApplication\obj\Debug\net6.0\TFCApplication.csproj.CopyComplete
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\libman.json
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\TFCApplication.staticwebassets.runtime.json
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\TFCApplication.exe
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\TFCApplication.deps.json
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\TFCApplication.runtimeconfig.json
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\TFCApplication.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\ref\TFCApplication.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\TFCApplication.pdb
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Grpc.AspNetCore.Web.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.csproj.AssemblyReference.cache
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.AssemblyInfoInputs.cache
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.AssemblyInfo.cs
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.csproj.CoreCompileInputs.cache
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.RazorAssemblyInfo.cache
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.RazorAssemblyInfo.cs
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\scopedcss\bundle\TFCApplication.styles.css
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\scopedcss\projectbundle\TFCApplication.bundle.scp.css
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.csproj.CopyComplete
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\ref\TFCApplication.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.pdb
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\TFCApplication.genruntimeconfig.cache
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danir\OneDrive\Área de Trabalho\teste\TFCApplication\obj\Debug\net6.0\scopedcss\Pages\Shared\_LayoutLogin.cshtml.rz.scp.css
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\libman.json
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\TFCApplication.staticwebassets.runtime.json
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\TFCApplication.exe
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\TFCApplication.deps.json
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\TFCApplication.runtimeconfig.json
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\TFCApplication.pdb
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Grpc.AspNetCore.Web.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.csproj.AssemblyReference.cache
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.AssemblyInfoInputs.cache
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.AssemblyInfo.cs
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.csproj.CoreCompileInputs.cache
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.RazorAssemblyInfo.cache
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.RazorAssemblyInfo.cs
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\scopedcss\Pages\Shared\_LayoutLogin.cshtml.rz.scp.css
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\scopedcss\bundle\TFCApplication.styles.css
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\scopedcss\projectbundle\TFCApplication.bundle.scp.css
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.csproj.CopyComplete
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\refint\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.pdb
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\TFCApplication.genruntimeconfig.cache
+C:\Users\ManuelSousa\Desktop\testeDanielv3\TFCApplication\obj\Debug\net6.0\ref\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\appsettings.json
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\libman.json
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\TFCApplication.staticwebassets.runtime.json
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\TFCApplication.exe
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\TFCApplication.deps.json
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\TFCApplication.runtimeconfig.json
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\TFCApplication.pdb
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Grpc.AspNetCore.Web.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.csproj.AssemblyReference.cache
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.AssemblyInfoInputs.cache
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.AssemblyInfo.cs
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.csproj.CoreCompileInputs.cache
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.RazorAssemblyInfo.cache
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.RazorAssemblyInfo.cs
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\scopedcss\Pages\Shared\_LayoutLogin.cshtml.rz.scp.css
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\scopedcss\bundle\TFCApplication.styles.css
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\scopedcss\projectbundle\TFCApplication.bundle.scp.css
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.csproj.CopyComplete
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\refint\TFCApplication.dll
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.pdb
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\TFCApplication.genruntimeconfig.cache
+C:\Users\ManuelSousa\Desktop\TFCApplicationGit\obj\Debug\net6.0\ref\TFCApplication.dll
