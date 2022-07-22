@@ -13,13 +13,16 @@
 4. No Android Studio abra a pasta extraida
 
 ![image](https://user-images.githubusercontent.com/61621542/180569181-788e6436-f19f-424d-890d-83042cd9b5d0.png)
+
 ![image](https://user-images.githubusercontent.com/61621542/180569237-64dda83b-b640-48b8-a43a-ffa0b6553695.png)
+
 ![image](https://user-images.githubusercontent.com/61621542/180569400-77629123-7ec1-4fb6-9503-0aba3222402a.png)
 
 5. Crie um emulador de telemóvel
-![image](https://user-images.githubusercontent.com/61621542/180569614-64c1b38f-7205-4cbc-b0f9-cb15329ad416.png)
+![image](https://user-images.githubusercontent.com/61621542/180570518-c2b327dc-ff2f-4f68-be1e-dfcbddea379b.png)
 ![image](https://user-images.githubusercontent.com/61621542/180569751-4ed49c27-e21a-4dd4-a8bc-76c1aaab0d73.png)
 ![image](https://user-images.githubusercontent.com/61621542/180569781-a8aa07cc-90d4-4fe1-8afb-18c933090702.png)
+![image](https://user-images.githubusercontent.com/61621542/180570332-9d4cfd1f-b109-45e5-8e0d-7c9d4edd4fd1.png)
 
 
 3. Faça o download dos ficheiros deste repositório do branch "main" e abra o ficheiro "TFCApplication.sln"
