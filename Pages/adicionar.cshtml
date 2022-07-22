@@ -1,0 +1,82 @@
+﻿@page
+@model TFCApplication.Pages.adicionarModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/adicionar.css" asp-append-version="true" /> 
+
+<div class="container bootstrap snippets bootdey">
+    <h1 class="text-primary"></h1>
+      <hr>
+	<div class="row">
+      <!-- left column -->
+      <div class="col-md-3">
+        <div class="text-center">
+          <img src="~/lib/images/user.jpg" class="avatar img-circle img-thumbnail" alt="avatar">
+        </div>
+      </div>
+      
+      <!-- edit form column -->
+      <div class="col-md-9 personal-info">
+        <h3>Informação Pessoal</h3>
+        <form method="post">
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Utilizador:</label>
+            <div class="col-lg-8">
+              <input class="form-control" id = "accept2" type="text" maxlength="10" asp-for="login" placeholder = "Ex.: a21901256"></input>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Tipo de Utilizador:</label>
+            <div class="col-lg-8">
+              <select id = "tipoUser" asp-for="tipoUser">
+                  <option value = "Utilizador">Utilizador do Parque</option>
+                  <option value = "Segurança">Segurança</option>
+                  <option value = "Admin">Administrador</option>
+                  </select>
+             </div>
+            </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Nome:</label>
+            <div class="col-lg-8">
+              <input class="form-control" id = "accept2" type="text" asp-for="name" placeholder = "Ex.: Daniel Rocha"></input>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Password:</label>
+            <div class="col-lg-8">
+              <input class="form-control" id = "accept2" type="text" maxlength="30" asp-for="password" placeholder = "Ex.: 1234567"></input>
+            </div>
+          </div>
+           <div class="form-group">
+            <label class="col-lg-3 control-label">Pago desde:</label>
+            <div class="col-lg-8">
+              <input class="form-control" id = "accept2" type="text" asp-for=@TFCApplication.Pages.adicionarModel.pagoDesde placeholder = "Ex.: 07-08-2022"></input>
+            </div>
+             <div class="form-group">
+            <label class="col-lg-3 control-label">Pago até:</label>
+            <div class="col-lg-8">
+              <input class="form-control" id = "accept2" type="text" asp-for=@TFCApplication.Pages.adicionarModel.pagoAte placeholder = "Ex.: 07-09-2022"></input>
+            </div>
+             <div class="form-group">
+            <label class="col-lg-3 control-label">Parque Grátis:</label>
+            <div class="col-lg-8">
+              <select id = "gratis" asp-for="parqueGratis">
+                  <option value = "Sim">Sim</option>
+                  <option value = "Não">Não</option>
+                  </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Matricula:</label>
+            <div class="col-lg-8">
+              <input class="form-control" id = "accept2" type="text" asp-for="matricula" placeholder = "Ex.: HH-02-VC"></input>
+            </div>
+          </div>
+          <br></br>
+          <button type="submit" class="addButton">Adicionar</button>
+        </form>
+      </div>
+  </div>
+</div>
+<hr>

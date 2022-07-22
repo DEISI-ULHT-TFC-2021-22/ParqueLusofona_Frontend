@@ -1,0 +1,96 @@
+﻿@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<link rel="stylesheet" href="~/css/Index.css" asp-append-version="true" /> 
+
+<br/> 
+<div class="float-container">
+
+  <div class="float-child">
+    <form  method="post" asp-page-handler="SearchUser">
+        <input id = "accept2" asp-for="SearchUserMatricula" placeholder = "Inserir Matrícula" type="text"  asp-for="searchUser"></input>
+        <button type="submit"  class="btn btn-black_accept">Procurar Utilizador</button>
+        <div class="form-outline mb-4">
+      <label>@Model.username</label>
+        </div>
+     </form>
+  </div>
+  
+  <div class="float-child">
+        <form method="post"  asp-page-handler="CleanUser">
+        <button type="submit"  class="btn btn-black_accept">X</button>
+         </form>
+  </div>
+  
+</div>
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<body>
+ 
+  <section class="parent">
+    <section class="child2">
+      <br />
+      <h1>Entrada</h1>
+      <img src = @TFCApplication.Pages.IndexModel.imagem alt="Sample Image" width="500px" height ="300px"/>
+       <br /><br />
+        <div>
+       <label> Utilizador : @(TFCApplication.Pages.IndexModel.numeroEntrada)</label>
+        </div>
+        <div>
+       <label> Entrada: @(TFCApplication.Pages.IndexModel.validacao)</label>
+        </div>
+       <form method="post" asp-page-handler="Revalidar">
+       <input id = "accept2" type="text" asp-for="matriculas.matricula" value="@(TFCApplication.Pages.IndexModel.matricula)"></input>
+       <br /><br />
+      <section class="parent">
+            <section class="_child2">
+                     
+       <button type="submit" class="btn btn-black_revalidate">Revalidar</button>
+      </form>
+            </section>
+            <section class="_child2">
+   <form method="post" asp-page-handler="Limpar">
+       <button type="submit" class="btn btn-black_accept">Confirmar</button>
+      </form>
+            </section>
+      </section>
+    </section>
+
+    <section class="_child2">
+      <br />
+      <h1>Saída</h1>
+      <img src=@TFCApplication.Pages.IndexModel.imagemSaida alt="Sample Image" width="500px" height = "300px" />
+       <br /><br />
+       <div>
+       <label> Utilizador : @(TFCApplication.Pages.IndexModel.numeroSaida)</label>
+       </div>
+        <div>
+       <label> Saída : @(TFCApplication.Pages.IndexModel.validacaoSaida)</label>
+        </div>
+       <form method="post" asp-page-handler="RevalidarSaida">
+       <input id = "accept1" type="text" asp-for="matriculasSaida.matricula" value="@(TFCApplication.Pages.IndexModel.matriculaSaida)"></input>
+       <br /><br />
+      <section class="parent">
+            <section class="_child2">
+                     
+       <button type="submit" class="btn btn-black_revalidate">Revalidar</button>
+      </form>
+            </section>
+            <section class="_child2">
+              
+   <form method="post" asp-page-handler="LimparSaida">
+       <button type="submit" class="btn btn-black_accept">Confirmar</button>
+      </form>
+            </section>
+      </section>
+    </section>
+
+  </section>
+</body>
+

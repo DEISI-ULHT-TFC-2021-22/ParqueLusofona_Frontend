@@ -1,0 +1,38 @@
+﻿@page
+@model TFCApplication.Pages.LoginModel
+@{
+    Layout = "_LayoutLogin";
+}
+
+<link rel="stylesheet" href="~/css/login.css" asp-append-version="true" /> 
+
+<section class="vh-100">
+  <div class="container py-5 h-100">
+    <div class="row d-flex align-items-center justify-content-center h-50">
+      <div class="col-md-8 col-lg-7 col-xl-6">
+        <img src="~/lib/images/lusofona.jpg" alt="Sample Image" width="500px" class="img-fluid"/>
+          
+      </div>
+      <div class="col-md-7 col-lg-5 col-xl-5 offset-xl-1">
+          <h2>Efetue o Login</h2>
+          <br/>
+        <form method="post">
+          <!-- User input -->
+          <div class="form-outline mb-4">
+            <input type="text" asp-for="Utilizadores.username" maxlength="10" placeholder="Username" required class="form-control form-control-lg"></input>
+          </div>
+
+          <!-- Password input -->
+          <div class="form-outline mb-4">
+            <input type="password" asp-for="Utilizadores.password" maxlength="30" placeholder="Password" required class="form-control form-control-lg"></input>
+          </div>
+          <div class="form-outline mb-4">
+            <label style = "color:red">@Model.errorText</label>
+          </div>
+          <!-- Submit button -->
+          <button type="submit" class="btn btn-primary btn-lg btn-block">Login</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>

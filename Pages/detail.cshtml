@@ -1,0 +1,66 @@
+﻿@page
+@model TFCApplication.Pages.detailModel
+@{
+}
+<div class="container bootstrap snippets bootdey">
+    <h1 class="text-primary"></h1>
+      <hr>
+	<div class="row">
+      <!-- left column -->
+      <div class="col-md-3">
+        <div class="text-center">
+          <img src="~/lib/images/user.jpg" class="avatar img-circle img-thumbnail" alt="avatar">
+        </div>
+      </div>
+      
+      <!-- edit form column -->
+      <div class="col-md-9 personal-info">
+        <h3>Informação Pessoal</h3>
+           <div class="form-group">
+            <label class="col-lg-3 control-label">Número:</label>
+            <div class="col-lg-8">
+              <label class="form-control" id = "accept2" type="text"> @Model.numero</label>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Nome:</label>
+            <div class="col-lg-8">
+              <label class="form-control" id = "accept2" type="text"  >@Model.name</input>
+            </div>
+          </div>
+           <div class="form-group">
+            <label class="col-lg-3 control-label">Pago desde:</label>
+            <div class="col-lg-8">
+              <label class="form-control" id = "accept2" type="text" >@Model.pagoDesde</label>
+            </div>
+          </div>
+           <div class="form-group">
+            <label class="col-lg-3 control-label">Pago até:</label>
+            <div class="col-lg-8">
+              <label class="form-control" id = "accept2" type="text" >@Model.pagoAte</label>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Parque Grátis:</label>
+            <div class="col-lg-8">
+              <label class="form-control" id = "accept2" type="text"> @Model.parqueGratis</label>
+            </div>
+          </div>
+         <div class="form-group">
+            <label class="col-lg-3 control-label">Conta Ativa:</label>
+            <div class="col-lg-8">
+              <label class="form-control" id = "accept2" type="text"> @Model.contaAtiva</label>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Matriculas:</label>
+            @foreach(var matricula in @Model.matriculasString){
+            <div class="col-lg-8">
+              <label class="form-control" id = "accept2" type="text" >@matricula</label>
+            </div>
+            }
+         </div>
+      </div>
+  </div>
+</div>
+<hr>

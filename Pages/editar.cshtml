@@ -1,0 +1,84 @@
+﻿@page
+@model TFCApplication.Pages.editarModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/adicionar.css" asp-append-version="true" /> 
+
+<div class="container bootstrap snippets bootdey">
+    <h1 class="text-primary"></h1>
+      <hr>
+	<div class="row">
+      <!-- left column -->
+      <div class="col-md-3">
+        <div class="text-center">
+          <img src="~/lib/images/user.jpg" class="avatar img-circle img-thumbnail" alt="avatar">
+        </div>
+      </div>
+      
+      <!-- edit form column -->
+      <div class="col-md-9 personal-info">
+        <h3>Informação Pessoal</h3>
+        <form method="post" asp-page-handler="Editar">
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Utilizador:</label>
+            <div class="col-lg-8">
+              <label class="form-control" id = "accept2" type="text"  > @Model.numero</label>
+              <input hidden class="form-control" id = "accept2" type="text" asp-for="numero" > </input>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Nome:</label>
+            <div class="col-lg-8">
+              <input class="form-control" id = "accept2" type="text" asp-for="name" ></input>
+            </div>
+          </div>
+           <div class="form-group">
+            <label class="col-lg-3 control-label">Pago desde:</label>
+            <div class="col-lg-8">
+              <input class="form-control" id = "accept2" type="text" asp-for="pagoDesde" ></input>
+            </div>
+          </div>
+           <div class="form-group">
+            <label class="col-lg-3 control-label">Pago até:</label>
+            <div class="col-lg-8">
+              <input class="form-control" id = "accept2" type="text" asp-for="pagoAte" ></input>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Parque Grátis:</label>
+            <div class="col-lg-8">
+              <select id = "gratis" asp-for="parqueGratis">
+                  <option value = "Sim">Sim</option>
+                  <option value = "Não">Não</option>
+                  </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Conta Ativa:</label>
+            <div class="col-lg-8">
+              <select id = "ativa" asp-for="contaAtiva">
+                  <option value = "Sim">Sim</option>
+                  <option value = "Não">Não</option>
+                  </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Matriculas:</label>
+            @foreach(var matricula in @Model.matriculasString){
+            <div class="col-lg-8">
+              <label class="form-control" id = "accept2" type="text" >@matricula</label>
+            </div>
+            }
+         </div>
+         <button type="submit" class="addButton">Editar</button>
+       </form>
+         <form method="post"  asp-page-handler="Adicionar">
+          <input  hidden asp-for="numero" type="text" ></input>
+          <input  asp-for="novamatricula" type="text" ></input>
+         <button  type="submit" >Adicionar Matricula</button>
+      </form>
+      </div>
+  </div>
+</div>
+<hr>

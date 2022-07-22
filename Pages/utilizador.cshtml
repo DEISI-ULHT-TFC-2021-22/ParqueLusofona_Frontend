@@ -1,0 +1,42 @@
+﻿@page
+@model TFCApplication.Pages.utilizadorModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/utilizador.css" asp-append-version="true" /> 
+<br/>
+
+<h1>Utilizadores</h1>
+<form class = "procurarButton" method="get" >
+   <input id = "userId" type="text" placeholder="Procurar Utilizador" asp-for="searchUserId"></input>
+   <button type="submit" class="btn btn-black_revalidate">&#128269</button>
+   </form>
+    <form  method="post" >
+     <button type="submit" class="addButton"  background-color : #0a0a23 >Adicionar Utilizador &#10133</button>
+  </form>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Utilizador</th>
+      <th scope="col">Nome</th>
+      <th scope="col">Ação</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var user in @Model.usersShow)
+    {
+    <tr>
+      <th scope="row">@user.numero</th>
+      <td>@user.nome</td>
+      <td>
+         <a href="/detail?id=@user.numero">Details</a>
+         /
+         <a href="/editar?id=@user.numero">Editar</a>
+      </td>
+    </tr>
+    }
+  </tbody>
+</table>
+
+
+
