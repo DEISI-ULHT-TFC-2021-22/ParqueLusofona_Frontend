@@ -1,0 +1,20 @@
+﻿body {
+}
+.procurarButton {
+    float: left;
+    border-radius: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.addButton {
+    background-color: #5BC80A;
+    color: #fff;
+    float: right;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    min-height: 30px;
+    min-width: 120px;
+}

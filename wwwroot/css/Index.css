@@ -1,0 +1,54 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+img {
+    border: 5px solid #555;
+}
+
+.child {
+    text-align: center;
+    width: 50%;
+    padding-top: 10px;
+}
+
+.child2 {
+    border-right: 1px solid grey;
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+}
+
+._child2 {
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+}
+
+
+@media(min-width:768px) {
+    .parent {
+       
+        display: flex;
+    }
+}
+
+.btn-black_accept {
+    background-color: #0a4d15 !important;
+    color: #fff;
+}
+
+.btn-black_revalidate {
+    background-color: #8a7106 !important;
+    color: #fff;
+}
+
+.float-container {
+    float:right;
+    padding: 1px;
+}
+
+.float-child {
+    float: left;
+    padding: 1px;
+}  
