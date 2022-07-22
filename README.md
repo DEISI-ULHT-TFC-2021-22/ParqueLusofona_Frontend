@@ -36,15 +36,30 @@
 
 9. Faça o download dos ficheiros do repositório das matriculas deste tfc: https://github.com/DEISI-ULHT-TFC-2021-22/TFC-Deisi243-Detecao-Matriculas
 
-10. Dentro do visual studio selecione a opção de adicionar um projeto existente e adicione o Server fornecido pelo Backend
+10. De modo a serem apresentadas as imagens recebidas pelo backend, é necessário: 
+
+- instalar o IIS: https://www.microsoft.com/en-us/download/details.aspx?id=48264
+
+- Abrir o IIS
+
+- Criar um diretório virtual 
+
+![image](https://user-images.githubusercontent.com/61621542/180572940-6452a770-c58f-45ee-b9d7-f932935b4b54.png)
+
+- Definir "Alias" com o nome imagens e o caminho fisico "\\localhost\Fotos"
+
+![image](https://user-images.githubusercontent.com/61621542/180573180-3efeb8c3-e42a-447a-8ec4-2193b0072579.png)
+
+
+11. Dentro do visual studio selecione a opção de adicionar um projeto existente e adicione o Server fornecido pelo Backend
 
 ![image](https://user-images.githubusercontent.com/61621542/164998677-0205c933-505d-43de-b16b-714c20410603.png)
 
 ![image](https://user-images.githubusercontent.com/61621542/164998749-81b05592-f792-43de-bf80-8d1ecc40f207.png)
 
-11. Clique com o botão direito do rato no "Solution" -> "Set Startup Projects..", escolha "Multiple startup projects" e ponha igual à figura abaixo, tendo o server de ficar em primeiro.
+12. Clique com o botão direito do rato no "Solution" -> "Set Startup Projects..", escolha "Multiple startup projects" e ponha igual à figura abaixo, tendo o server de ficar em primeiro.
 
-12. Correr o projeto das matriculas
+13. Correr o projeto das matriculas
 
 ![image](https://user-images.githubusercontent.com/61621542/180566935-5ab44a2d-ddee-4b88-86dd-1a2b053321b4.png)
 ![image](https://user-images.githubusercontent.com/61621542/180566984-5df32d59-caff-423e-a109-a9ff3ac42221.png)
@@ -52,12 +67,12 @@
 
 ![image](https://user-images.githubusercontent.com/61621542/180565307-2393b5b0-5181-443c-98a9-b904e914828e.png)
 
-13. Corra o projeto do website
+14. Corra o projeto do website
 
 ![Screenshot_5](https://user-images.githubusercontent.com/61621542/164998916-e1f966bf-612b-4c28-a171-8ae06b59d362.png)
 
-14. Corra o projeto do mobile
+15. Corra o projeto do mobile
 
 ![image](https://user-images.githubusercontent.com/61621542/180572260-05f23b85-644a-4447-93b2-25a5961a47f9.png)
 
-15. Exemplo de utilização: https://www.youtube.com/watch?v=kNjaHaQUppE
+16. Exemplo de utilização: https://www.youtube.com/watch?v=kNjaHaQUppE
